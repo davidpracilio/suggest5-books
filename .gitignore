@@ -1,2 +1,5 @@
 #Info text files
 _notes.txt
+connection.js
+.env
+.idea
